@@ -8,7 +8,7 @@ Built with **Python, LangChain, OpenAI API, SQLite, Pandas and Streamlit**, this
 > **Project status:** Proof of Concept (PoC)  
 > **Data:** Simulated manufacturing data  
 > **Architecture:** Read-only decision-support application  
-> **Domain:** Battery Manufacturing | Digital Manufacturing | Smart Factory | Industry 4.0
+> **Domain:** Digital Manufacturing | Smart Factory | Industry 4.0
 
 ---
 
@@ -152,7 +152,7 @@ The agent uses these tools to prepare an investigation report containing:
 
 ## 📊 6. Simulated Manufacturing Data
 
-Since real plant data is not required for this PoC, the project includes a synthetic battery-manufacturing dataset.
+Since real plant data is not required for this PoC, the project includes a synthetic manufacturing dataset.
 
 The generator creates 18 simulated downtime incidents across Assembly, Formation and Finishing operations.
 
@@ -525,5 +525,4 @@ If you find this project useful, consider giving it a ⭐ on GitHub and sharing 
 
 ### Keywords
 
-`Agentic AI` `Manufacturing AI` `Industrial AI` `Industry 4.0` `Digital Manufacturing` `Smart Factory` `Root Cause Analysis` `Downtime Analysis` `Predictive Maintenance` `LangChain` `Python` `OpenAI` `PLC` `SCADA` `MES` `Historian` `OEE` `Battery Manufacturing` `IT-OT Convergence`
-The Downtime Investigator &amp; Root Cause Intelligence Agent uses Agentic AI to retrieve and correlate multi-source manufacturing data, evaluate potential failure hypotheses and generate structured investigation reports.
+`Agentic AI` `Manufacturing AI` `Industrial AI` `Industry 4.0` `Digital Manufacturing` `Smart Factory` `Root Cause Analysis` `Downtime Analysis` `Predictive Maintenance` `LangChain` `Python` `OpenAI` `PLC` `SCADA` `MES` `Historian` `OEE` `IT-OT Convergence`
